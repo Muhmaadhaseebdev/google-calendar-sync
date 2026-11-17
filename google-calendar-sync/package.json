@@ -1,0 +1,12 @@
+{
+  "name": "google-calendar-sync",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
